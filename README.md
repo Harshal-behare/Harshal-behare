@@ -1,4 +1,4 @@
-![logo](https://github.com/Harshal-behare/Harshal-behare/blob/main/banner.mp4)
+![logo](https://github.com/Harshal-behare/Harshal-behare/blob/main/banner.png)
 
 <h1></h1>
 
@@ -9,7 +9,7 @@
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> <b align="left">About Me:</b>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=siddhesh-desai&label=Profile%20views&color=0e75b6&style=flat" alt="siddhesh-desai" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Harshal-behare&label=Profile%20views&color=0e75b6&style=flat" alt="Harshal-behare" /> </p>
 
 - 🌱 I’m currently learning **Artificial Intelligence** and **Machine Learning**
 
@@ -24,10 +24,10 @@
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> <b align="left">Connect with me:</b>
 
 <p align="left">
-<a href="https://x.com/Harshal_Behare?t=Dvn6t_wJYn-lqo8kfBvccA&s=08" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Harshal_Behare" height="30" width="40" /></a><p> </p>
-<a href="https://www.linkedin.com/in/harshal-behare-3668531bb/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harshal-behare" height="30" width="40" /></a><p> </p>
+<a href="https://x.com/Harshal_Behare?t=Dvn6t_wJYn-lqo8kfBvccA&s=08" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Harshal_Behare" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/harshal-behare-3668531bb/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harshal-behare" height="30" width="40" /></a>
 <!-- <a href="https://stackoverflow.com/users/18415485" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="18415485" height="30" width="40" /></a><p> </p> -->
-<a href="https://www.instagram.com/harshal_behare/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="harshal_behare" height="30" width="40" /></a><p> </p>
+<a href="https://www.instagram.com/harshal_behare/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="harshal_behare" height="30" width="40" /></a>
 <!-- <a href="https://medium.com/@desaisiddhesh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@desaisiddhesh" height="30" width="40" /></a><p> </p> -->
 <!-- <a href="https://www.youtube.com/c/siddheshdesai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="siddheshdesai" height="30" width="40" /></a> -->
 <!-- <a href="https://www.codechef.com/users/siddheshdesai" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="siddheshdesai" height="30" width="40" /></a> -->
@@ -103,5 +103,5 @@
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> <b align="left">Github Streaks:</b>
 
 <p>
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Harshal-behare&" alt="siddhesh-desai" />
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Harshal-behare&" alt="Harshal-behare" />
 </p>
