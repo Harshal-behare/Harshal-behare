@@ -1,4 +1,4 @@
-![logo](https://github.com/Harshal-behare/Harshal-behare/blob/main/Banner.mp4)
+![logo](https://github.com/Harshal-behare/Harshal-behare/blob/main/Banner.png)
 
 <h1></h1>
 
