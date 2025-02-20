@@ -26,13 +26,11 @@
 <p align="left">
 <a href="https://x.com/Harshal_Behare?t=Dvn6t_wJYn-lqo8kfBvccA&s=08" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Harshal_Behare" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/harshal-behare-3668531bb/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harshal-behare" height="30" width="40" /></a>
-<!-- <a href="https://stackoverflow.com/users/18415485" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="18415485" height="30" width="40" /></a><p> </p> -->
+
 <a href="https://www.instagram.com/harshal_behare/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="harshal_behare" height="30" width="40" /></a>
-<!-- <a href="https://medium.com/@desaisiddhesh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@desaisiddhesh" height="30" width="40" /></a><p> </p> -->
-<!-- <a href="https://www.youtube.com/c/siddheshdesai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="siddheshdesai" height="30" width="40" /></a> -->
-<!-- <a href="https://www.codechef.com/users/siddheshdesai" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="siddheshdesai" height="30" width="40" /></a> -->
-<a href="https://www.hackerrank.com/harshalbehare1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="siddheshdesai777" height="30" width="40" /></a>
-<!-- <a href="https://codeforces.com/profile/siddheshdesai777" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="siddheshdesai777" height="30" width="40" /></a> -->
+
+<a href="https://www.hackerrank.com/harshalbehare1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="harshalbehare1" height="30" width="40" /></a>
+
 </p>
 
 <br>
@@ -58,9 +56,6 @@
     <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> 
         <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> 
     </a> 
-    <!-- <a href="https://flutter.dev" target="_blank" rel="noreferrer">  -->
-        <!-- <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/>  -->
-    <!-- </a>  -->
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
         <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
     </a> 
@@ -75,9 +70,6 @@
     </a> 
     <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
-    </a> 
-    <a href="https://nuxtjs.org/" target="_blank" rel="noreferrer"> 
-        <img src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" alt="nuxtjs" width="40" height="40"/> 
     </a> 
     <a href="https://postman.com" target="_blank" rel="noreferrer"> 
         <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
@@ -95,7 +87,7 @@
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> <b align="left">Github Stats:</b>
 
 <p>
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Harshal-behare&show_icons=true&locale=en" alt="siddhesh-desai" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Harshal-behare&show_icons=true&locale=en" alt="Harshal-behare" />
 </p>
 
 <br>
