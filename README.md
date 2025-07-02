@@ -11,7 +11,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Harshal-behare&label=Profile%20views&color=0e75b6&style=flat" alt="Harshal-behare" /> </p>
 
-- 🌱 I’m currently learning **Artificial Intelligence** and **Machine Learning**
+- 🌱 I’m currently learning **App development** and **Blockchain Technology**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Harshal-behare](https://github.com/Harshal-behare)
 
@@ -24,12 +24,18 @@
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> <b align="left">Connect with me:</b>
 
 <p align="left">
-<a href="https://x.com/Harshal_Behare?t=Dvn6t_wJYn-lqo8kfBvccA&s=08" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Harshal_Behare" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/harshal-behare-3668531bb/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harshal-behare" height="30" width="40" /></a>
-
-<a href="https://www.instagram.com/harshal_behare/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="harshal_behare" height="30" width="40" /></a>
-
-<a href="https://www.hackerrank.com/harshalbehare1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="harshalbehare1" height="30" width="40" /></a>
+<a href="https://x.com/Harshal_Behare?t=Dvn6t_wJYn-lqo8kfBvccA&s=08" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Harshal_Behare" height="30" width="40" />
+</a>
+<a href="https://www.linkedin.com/in/harshal-behare-3668531bb/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harshal-behare" height="30" width="40" />
+</a>
+<a href="https://www.instagram.com/harshal_behare/" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="harshal_behare" height="30" width="40" />
+</a>
+<a href="https://www.hackerrank.com/harshalbehare1" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="harshalbehare1" height="30" width="40" />
+</a>
 
 </p>
 
